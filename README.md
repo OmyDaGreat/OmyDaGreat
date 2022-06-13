@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @OmyDaGreat
-- 👀 I’m interested in Python coding
+- 👀 I’m interested in Python and GML coding
 - 🌱 I’m currently learning about making games
-- 💞️ I’m looking to collaborate on VSCode games
 - 📫 You can reach me by emailing ogupta4242@gmail.com
 
 <!---
