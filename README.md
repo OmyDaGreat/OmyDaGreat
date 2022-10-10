@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @OmyDaGreat
-- 👀 I’m interested in Python and GML coding
+- 👀 I’m interested in Java coding
 - 🌱 I’m currently learning about making games
 - 📫 You can reach me by emailing ogupta4242@gmail.com
 
