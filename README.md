@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OmyDaGreat
-- 👀 I’m interested in Java coding
-- 🌱 I’m currently learning about dictation
+- 👀 I have had a lot of Java experience
+- 🌱 I’m currently learning about Kotlin
 - 📫 You can reach me by emailing ogupta4242@gmail.com
 
 <!---
