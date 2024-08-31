@@ -1,4 +1,4 @@
-![banner image](https://p-def7.pcloud.com/DLZOzPQpaZctHQsQ7ZarL97ZZAJFgkkZ3VZZD40ZZ8AckZKQZDzZVLZjI3Cb9uE3HQf4ee5jItws4IL2IwV/Kotlin%20Dev.png)
+![banner image](https://raw.githubusercontent.com/OmyDaGreat/OmyDaGreat/main/KotlinDev.png)
 
 <!--
 ###
