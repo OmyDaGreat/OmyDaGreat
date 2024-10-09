@@ -37,8 +37,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sourcetree/sourcetree-original.svg" height="40" alt="sourcetree logo"  />
@@ -52,6 +50,12 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=OmyDaGreat&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://wakatime.com/@00ffa0d6-6255-4d61-94de-36d6865bb361"><img src="https://wakatime.com/badge/user/00ffa0d6-6255-4d61-94de-36d6865bb361.svg" alt="Total time coded since Oct 8 2024" /></a>
 </div>
 
 ###
