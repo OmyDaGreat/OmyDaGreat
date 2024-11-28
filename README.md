@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">I'm Om Gupta from Anaheim, California.<br><br>- 🔭 I’m currently a student.<br>- 📚 I'm using Kotlin as my main language.<br>- ⚡ In my free time I like working on utils.</p>
+<p align="left">I'm Om Gupta from Anaheim, California.<br><br>- 🔭 I’m currently a student.<br>- 📚 I'm using Kotlin as my main language.<br>- ⚡ In my free time I like working on Compose for Desktop libraries.</p>
 
 ###
 
