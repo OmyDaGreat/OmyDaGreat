@@ -48,5 +48,6 @@
 
 ###
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=OmyDaGreat)](https://git.io/streak-stats)
-
+<div align="center">
+  <p><img src="https://github-readme-stats.vercel.app/api?username=OmyDaGreat&amp;theme=monokai&amp;show_icons=true&amp;hide_border=true&amp;count_private=true" alt="OmyDaGreat&#39;s Stats"></p>
+</div>
