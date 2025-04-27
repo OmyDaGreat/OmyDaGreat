@@ -1,4 +1,4 @@
-![banner image](https://raw.githubusercontent.com/OmyDaGreat/OmyDaGreat/main/KotlinDev.png)
+![banner image](https://gallery.malefic.xyz/photos/Kotlin/KotlinDev.png)
 
 <!--
 ###
