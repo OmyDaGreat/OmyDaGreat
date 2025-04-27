@@ -11,7 +11,7 @@
 -->
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=OmyDaGreat.OmyDaGreat&"  />
+  <a href="https://visitorbadge.io/status?path=OmyDaGreat%2FOmyDaGreat"><img src="https://api.visitorbadge.io/api/visitors?path=OmyDaGreat%2FOmyDaGreat&countColor=%2337d67a" /></a>
 </div>
 
 ###
