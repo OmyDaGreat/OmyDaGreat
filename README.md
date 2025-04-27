@@ -49,5 +49,6 @@
 ###
 
 <div align="center">
-  <p><img src="https://github-readme-stats.vercel.app/api?username=OmyDaGreat&amp;theme=monokai&amp;show_icons=true&amp;hide_border=true&amp;count_private=true" alt="OmyDaGreat&#39;s Stats"></p>
+  <p><img src="https://github-readme-stats.vercel.app/api?username=OmyDaGreat&amp;theme=merko&amp;show_icons=true&amp;count_private=true" alt="OmyDaGreat&#39;s Stats"></p>
+  <p><img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=1242&api_domain=hackatime.hackclub.com&theme=merko&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8" alt="Hackatime Stats"</p>
 </div>
