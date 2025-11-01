@@ -35,13 +35,9 @@
 <h3 align="left">🤖 Robotics</h3>
 <p align="left">
   I'm an active member of <strong>FRC Team 4079</strong>, where I contribute to competitive robotics projects.<br><br>
-  
-  🔧 <strong>Current Project:</strong> <a href="https://github.com/FRC4079/Reefscape-2025-Offseason" target="_blank">Reefscape 2025 Offseason Robot</a><br>
-  We're developing our offseason robot for the 2025 season, focusing on innovative mechanisms and optimized autonomous routines.<br><br>
-  
-  🏆 Check out our <a href="https://github.com/FRC4079/" target="_blank">team organization</a> to see all our robotics projects, past competition robots, and collaborative development work.<br><br>
-  
-  💡 My contributions include software development, autonomous path planning, and systems integration for our competition robots.
+  - 🔧 <strong>Current Project:</strong> <a href="https://github.com/FRC4079/Reefscape-2025-Offseason" target="_blank">Reefscape 2025 Offseason Robot</a>; we're developing our offseason robot for the 2025 season, focusing on innovative mechanisms and optimized autonomous routines.<br>
+  - 🏆 Check out our <a href="https://github.com/FRC4079/" target="_blank">team organization</a> to see all our robotics projects, past competition robots, and collaborative development work.<br>
+  - 💡 My contributions include software development, autonomous path planning, and systems integration for our competition robots.
 </p>
 
 ---
