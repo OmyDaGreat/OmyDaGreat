@@ -59,23 +59,13 @@
 <!-- Stats Section -->
 <h3 align="left">🔥 My Stats</h3>
 <div align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=OmyDaGreat&theme=merko&show_icons=true&count_private=true" alt="OmyDaGreat's Stats" />
-  
-  <br /><br />
-  
   <!-- Wakatime Stats -->
   <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=1242&api_domain=hackatime.hackclub.com&theme=merko&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8" alt="Hackatime Stats" />
   
   <br /><br />
   
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OmyDaGreat&theme=merko" alt="GitHub Streak Stats" />
-  
-  <br /><br />
-  
-  <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=OmyDaGreat&theme=radical&row=1&no-frame=true" alt="GitHub Trophies" />
+  <!-- GitHub Stats -->
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=OmyDaGreat&theme=chartreuse_dark" alt="GitHub profile summary card">
 </div>
 
 ---
