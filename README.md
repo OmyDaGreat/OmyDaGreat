@@ -17,33 +17,20 @@
 
 ---
 
-<h1 align="center">👋 Hey there, I'm Om Gupta!</h1>
+<h1 align="center">Hey there, I'm Om!</h1>
 
 <!-- About Me -->
-<h3 align="left">👩‍💻 About Me</h3>
-<p align="left">
-  I'm Om Gupta from Anaheim, California.<br>
-  I'm a student passionate about coding and open-source development.<br><br>
-  - 🔭 I'm currently working on Kotlin projects.<br>
-  - 📚 I primarily use Kotlin as my main programming language.<br>
-  - ⚡ I love exploring multi-platform Jetpack Compose libraries in my free time!
-</p>
-
----
-
-<!-- Robotics Section -->
-<h3 align="left">🤖 Robotics</h3>
-<p align="left">
-  I'm an active member of <strong>FRC Team 4079</strong>, where I contribute to competitive robotics projects.<br><br>
-  - 🔧 <strong>Current Project:</strong> <a href="https://github.com/FRC4079/Reefscape-2025-Offseason" target="_blank">Reefscape 2025 Offseason Robot</a>; we're developing our offseason robot for the 2025 season, focusing on innovative mechanisms and optimized autonomous routines.<br>
-  - 🏆 Check out our <a href="https://github.com/FRC4079/" target="_blank">team organization</a> to see all our robotics projects, past competition robots, and collaborative development work.<br>
-  - 💡 My contributions include software development, autonomous path planning, and systems integration for our competition robots.
+<h3 align="center">About Me</h3>
+<p align="center">
+  I'm a student (Harvard Co.'30) passionate about open-source development, particularly that of libraries, frameworks, and templates.<br><br>
+  I'm currently working on <a href="https://github.com/OmyDaGreat/DailyMalefic">DailyMalefic</a> and <a href="https://github.com/OmyDaGreat/StackManager">StackManager</a>.<br>
+  I love exploring random libraries in my free time.
 </p>
 
 ---
 
 <!-- Languages and Tools -->
-<h3 align="left">🛠 Languages and Tools</h3>
+<h3 align="center">Main Languages and Tools</h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="Kotlin logo" />
   <img width="12" />
@@ -51,13 +38,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="IntelliJ IDEA logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sourcetree/sourcetree-original.svg" height="40" alt="Sourcetree logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitkraken/gitkraken-original.svg" height="40" alt="GitKraken logo" />
 </div>
 
 ---
 
 <!-- Stats Section -->
-<h3 align="left">🔥 My Stats</h3>
+<h3 align="center">My Stats</h3>
 <div align="center">
   <!-- Wakatime Stats -->
   <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=1242&api_domain=hackatime.hackclub.com&theme=merko&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8" alt="Hackatime Stats" />
@@ -73,5 +60,4 @@
 <!-- Footer -->
 <p align="center">
   💻 Built with ❤️ by me, <strong>Malefic</strong> <br>
-  🌟 If you like my profile, consider giving it a ⭐️!
 </p>
